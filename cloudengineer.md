@@ -1,9 +1,11 @@
 # Cloud Engineer
 
 > So you want to be a **Cloud Engineer** at **Oreta**?
->>Oreta ranks 16th in CRN’s Fast 50
->>Work with the best - Oreta's founder was a finalist at the 2017 ARN Women in ICT Awards (WIICTA)
->>Winner of New Partner of the Year award at the 2017 NetApp Partner Awards
+- Oreta ranks 16th in CRN’s Fast 50
+
+- Work with the best - Oreta's founder was a finalist at the 2017 ARN Women in ICT Awards (WIICTA)
+
+- Winner of New Partner of the Year award at the 2017 NetApp Partner Awards
 
 ## Who We Are
 
