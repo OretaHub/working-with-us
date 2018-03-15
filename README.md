@@ -2,4 +2,4 @@
 
 This repo contains descriptions for each of the technical roles @ Oreta
 
-src="./images/oretalogo.png" width="100">
+<img src="./images/oretalogo.png" width="100">
