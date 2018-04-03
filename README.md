@@ -15,6 +15,6 @@ Cloudengineer
 ---------
 - [Cloud enginner ](./jobs/cloudengineer.md)
 
-Graduate / Junior Developer
+Juniordeveloper
 -----------------
 - [Graduate / Junior Developer ](./jobs/juniordeveloper.md)
