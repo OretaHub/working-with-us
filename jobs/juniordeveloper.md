@@ -17,17 +17,17 @@ We are a constantly evolving team, adopting new market trends, and are looking f
 
 ## What you will do
 
-- As a developer, you will be changing the world( or atleast our customers world ) with a text editor, of your choice.
+- As a developer, you will be changing the world( or at least our customers world ) with a text editor, of your choice.
 
 - You will be producing clean code, testing and implementing configuration changes and assisting in the design of software applications that you love and will be confident that it meets both functional and technical requirements.
 
 - Participate in internal and client projects using Waterfall, Agile and Scrum Methodologies.
 
-- Support the Cloud Architects to be more creative ,while helping them document and test detailed designs for environments build using code.
+- Support the Cloud Architects to be more creative, while helping them document and test detailed designs for environment builds using code.
 
 - Responsible for documenting and articulating code constructs to Oreta internal and customer technical teams.
 
-- Embrace technologies that assist in the development and delivery of projects that is fit for purpose.
+- Embrace technologies that assist in the development and delivery of projects that are fit for purpose.
 
 - Undertake research duties and knowledge transfer to the team.
 
@@ -42,7 +42,7 @@ We want you to consider yourself as a creative worker, who loves opportunities t
     - Code Editor, e.g. Visual Studio, Atom...
 
 - Experience in developing with one (ideally two) of the following languages
-    - Ruby 
+    - Ruby
     - Python
     - Golang
     - Java
