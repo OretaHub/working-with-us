@@ -8,14 +8,13 @@ List of Technical Roles at Oreta
 =================
 
   * [Cloud-Engineer](#cloudengineer)
-  * [Cloud-Architect](#cloudarchitect)
-  * [Resource](#resource)
-  * [License](#license)
+  * [Graduate / Junior Developer ](#juniordeveloper)
 
 
 Cloudengineer
 ---------
-[Cloud enginner ](./jobs/cloudengineer.md)
+- [Cloud enginner ](./jobs/cloudengineer.md)
 
-Cloudarchitect
-----------
+Graduate / Junior Developer
+-----------------
+- [Graduate / Junior Developer ](./jobs/juniordeveloper.md)
