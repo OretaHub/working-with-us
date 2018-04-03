@@ -7,15 +7,15 @@ This repo contains descriptions for each of the technical roles @ Oreta
 List of Technical Roles at Oreta
 =================
 
-  * [Cloud-Engineer](#cloud-engineer)
-  * [Cloud-Architect](#cloud-architect)
+  * [Cloud-Engineer](#cloudengineer)
+  * [Cloud-Architect](#cloudarchitect)
   * [Resource](#resource)
   * [License](#license)
 
 
-Cloud-engineer
+Cloudengineer
 ---------
 [Cloud enginner ](./jobs/cloudengineer.md)
 
-Cloud-architect
+Cloudarchitect
 ----------
